@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9dc8e26d3ee62d140479d42fdebad701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fanely/.gradle/caches/transforms-2/files-2.1/bf8b57d46cb646848ca2e606946d4d9c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/015bae17c132ea353228f0caf662d5f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/d6107091092246c707479426f10f56cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9850d1cb18a9ad46ed284c6ce80e7cf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e55db6399038badfba37867f9d70ca1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/31094b0badd6780c78911530ae35d77c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0dc46dcfd32c8801486dc22c3fc870ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0b5bcdc1cab06bdcd1def628d01dd8ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/1a08bf8aab6c05492de05169951200c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/076a4f6f6905ae9efe23e20f6c38b25b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6fcf69fd15dad5bc5d8980a0871779a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9231a953c49cd4c2837ad86c687edb22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9f05644e463b196fd69cef6b56b60986/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/774f4c4a8902b2d6f5c264af8e4efa68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/370b22e35a39cf76326384053435be7e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/4d7ed33f444e6ddb6fff744a53e458ff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9127b3d6316bc201c7f1aee0ad00265e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/a80b379397277d90c33334f7746c6921/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/60535770f03a3708ca9313f2b58a9396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e9894106cc48873d60b362f4a8610eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/476b1a8960c8c6e74b99e0ee02948f48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6a657e1e6778ed4ba833a2c521cf27e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/051348579d38a4b520696b4ceca1f9da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/432ef0b475641a9d98dc91663ffde264/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/7b212abe2f6105160f0012c863face49/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fanely/.gradle/caches/transforms-2/files-2.1/bf8b57d46cb646848ca2e606946d4d9c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fanely/.gradle/caches/transforms-2/files-2.1/bf8b57d46cb646848ca2e606946d4d9c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/370b22e35a39cf76326384053435be7e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/370b22e35a39cf76326384053435be7e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:9:9-45
+	android:icon
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.netfanely.mime2.MainActivity
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9dc8e26d3ee62d140479d42fdebad701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9dc8e26d3ee62d140479d42fdebad701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fanely/.gradle/caches/transforms-2/files-2.1/bf8b57d46cb646848ca2e606946d4d9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fanely/.gradle/caches/transforms-2/files-2.1/bf8b57d46cb646848ca2e606946d4d9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/015bae17c132ea353228f0caf662d5f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/015bae17c132ea353228f0caf662d5f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/d6107091092246c707479426f10f56cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/d6107091092246c707479426f10f56cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9850d1cb18a9ad46ed284c6ce80e7cf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9850d1cb18a9ad46ed284c6ce80e7cf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e55db6399038badfba37867f9d70ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e55db6399038badfba37867f9d70ca1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/31094b0badd6780c78911530ae35d77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/31094b0badd6780c78911530ae35d77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0dc46dcfd32c8801486dc22c3fc870ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0dc46dcfd32c8801486dc22c3fc870ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0b5bcdc1cab06bdcd1def628d01dd8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/0b5bcdc1cab06bdcd1def628d01dd8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/1a08bf8aab6c05492de05169951200c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/1a08bf8aab6c05492de05169951200c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/076a4f6f6905ae9efe23e20f6c38b25b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/076a4f6f6905ae9efe23e20f6c38b25b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6fcf69fd15dad5bc5d8980a0871779a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6fcf69fd15dad5bc5d8980a0871779a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9231a953c49cd4c2837ad86c687edb22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9231a953c49cd4c2837ad86c687edb22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9f05644e463b196fd69cef6b56b60986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9f05644e463b196fd69cef6b56b60986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/774f4c4a8902b2d6f5c264af8e4efa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/774f4c4a8902b2d6f5c264af8e4efa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/ede42570747dd09420750ca6a78eac84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/370b22e35a39cf76326384053435be7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/370b22e35a39cf76326384053435be7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/4d7ed33f444e6ddb6fff744a53e458ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/4d7ed33f444e6ddb6fff744a53e458ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9127b3d6316bc201c7f1aee0ad00265e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/9127b3d6316bc201c7f1aee0ad00265e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/a80b379397277d90c33334f7746c6921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/a80b379397277d90c33334f7746c6921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/60535770f03a3708ca9313f2b58a9396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/60535770f03a3708ca9313f2b58a9396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e9894106cc48873d60b362f4a8610eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/8e9894106cc48873d60b362f4a8610eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/476b1a8960c8c6e74b99e0ee02948f48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/476b1a8960c8c6e74b99e0ee02948f48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6a657e1e6778ed4ba833a2c521cf27e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/6a657e1e6778ed4ba833a2c521cf27e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/051348579d38a4b520696b4ceca1f9da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/051348579d38a4b520696b4ceca1f9da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/432ef0b475641a9d98dc91663ffde264/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fanely/.gradle/caches/transforms-2/files-2.1/432ef0b475641a9d98dc91663ffde264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/7b212abe2f6105160f0012c863face49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fanely/.gradle/caches/transforms-2/files-2.1/7b212abe2f6105160f0012c863face49/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fanely/Desktop/AndroidProjects/Mime2/app/src/main/AndroidManifest.xml

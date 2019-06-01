@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mime version 2.0</string>
+    <string name="mensaje">Pensamientos para reflexión y emprendimiento</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+</resources>
