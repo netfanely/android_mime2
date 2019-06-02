@@ -9,4 +9,8 @@
     <string name="mensaje4">REFLEXIVO</string>
     <string name="mensaje5">AMA LA VIDA</string>
     <string name="mensaje6">MOTIVACION EMPRENDEDOR</string>
+    <string name="btnText3">Optimista</string>
+    <string name="btnText4">Imparcial</string>
+    <string name="btnText5">Triste</string>
+    <string name="btnText6">Agotado</string>
 </resources>
