@@ -4,4 +4,9 @@
     <string name="crear_cuenta">Crear una cuenta</string>
     <string name="tienes_cuenta">¿Ya tienes una cuenta?</string>
     <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="pregunta">¿Cómo te sientes hoy?</string>
+    <string name="mensaje3">POSITIVIDAD</string>
+    <string name="mensaje4">REFLEXIVO</string>
+    <string name="mensaje5">AMA LA VIDA</string>
+    <string name="mensaje6">MOTIVACION EMPRENDEDOR</string>
 </resources>
