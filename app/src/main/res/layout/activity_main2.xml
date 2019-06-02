@@ -7,6 +7,7 @@
     android:orientation="vertical"
     tools:context=".Main2Activity">
     <TextView
+        android:id="@+id/tvPregunta"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/pregunta"
@@ -15,25 +16,25 @@
         android:id="@+id/btn3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Optimista" />
+        android:text="@string/btnText3" />
 
     <Button
         android:id="@+id/btn4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Imparcial" />
+        android:text="@string/btnText4" />
 
     <Button
         android:id="@+id/btn5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Triste" />
+        android:text="@string/btnText5" />
 
     <Button
         android:id="@+id/btn6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Agotado" />
+        android:text="@string/btnText6" />
 
 
 
